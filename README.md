@@ -1,7 +1,5 @@
 # signing-example
 
-This is an example!
-
 Signing use cases:
 
 1. CLI without signing
